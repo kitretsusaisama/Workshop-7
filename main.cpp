@@ -1,8 +1,16 @@
-"// Workshop 7: Inheritance
+/*
+// Workshop 7: Inheritance
 // Version: 1.0
 // Date: 2022-07-21
 // Author: Wail
-/////////////////////////////////////////////
+==============================================
+ Name:- Swati Gupta
+ Email:- sgupta135@myseneca.ca
+ Student ID:-166785212
+ Date:- Nov 08,2022
+ Workshop: 7 
+==============================================
+///////////////////////////////////////////// */
 
 #include<iostream>
 #include "Dumper.h"

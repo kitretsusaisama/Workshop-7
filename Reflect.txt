@@ -1,0 +1,27 @@
+/*
+==============================================
+ Name:- Swati Gupta
+ Email:- sgupta135@myseneca.ca
+ Student ID:-166785212
+ Date:- Nov 08,2022
+ Workshop: 7 
+==============================================
+*/
+
+In this workshop, I learned many new different terminologies. In the respective week
+I was introduced to function overloading and types of memory 
+(static memory and dynamic memory), references, allocation, and deallocation of 
+dynamic memory. This concept was new and hard to conquer initially
+but as I went through the textbook and lectures, I slowly understood the concepts. 
+But without practical application, it can't be digested completely.
+And so workshop 7 completely helped me hammer this concept. In this 
+workshop, I developed strong foundations in each of these concepts.
+
+The standard library called iostream which is used to read from the standard input and write to the standard output by providing the methods cin and cout. Likewise, there is another standard library in C++ called fstream to read the data from the file and to write the data into the file which provides three data types namely ofstream, ifstream and fstream among which ofstream is a data type using which the output file stream is represented and files can be created and information can be written to the files and to make use of ofstream.
+
+An in-parameter is information being passed from the caller to the function.The in-parameter is the value which is actually passed to the function and cannot be modified whereas the out-parameter represents information that is passed from the function 
+back to its caller. The function accomplishes that by storing a value into that parameter. the call by reference or by pointer is used in the out parameter.For small things, such as integers or real numbers, we usually use call by value for an in-parameter.
+The in-parameter usually uses pointers and consists '*' in the syntax whereas the in the out-parameter as it includes pass by reference, it includes '&' in the syntax.
+
+this functions are designed to read a string (name) and uses a char type in the parameter. So while reading through the file the information is passed as pointers and is thoroughly extractedThe out-parameters mentioned above all uses the pass by reference method. It is similar to pass by address and thus a particular value can be stored into that 
+parameter and the same is then passed from the function back to its caller.
